@@ -1,0 +1,5 @@
+Streamlit 
+os
+python-dotenv
+google-generativeai
+
